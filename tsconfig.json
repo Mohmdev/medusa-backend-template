@@ -20,11 +20,5 @@
     "checkJs": false
   },
   "include": ["src/"],
-  "exclude": [
-    "**/__tests__",
-    "**/__fixtures__",
-    "node_modules",
-    "build",
-    ".cache"
-  ]
+  "exclude": ["**/__tests__", "**/__fixtures__", "node_modules", "build", ".cache"]
 }
